@@ -1,2 +1,2 @@
 # Algorithms
-My collection of Algorithms &amp;&amp; Data Structures 
+My collection of algorithms &amp;&amp; data structures 
